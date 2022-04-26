@@ -1,1 +1,1 @@
-# python-OOP
+Information about OOP in python.
